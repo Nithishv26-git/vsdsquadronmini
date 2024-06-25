@@ -11,3 +11,7 @@ The program is about the development pf RISC-V architecture using the VSD squadr
 Writing a C code to count sum of numbers from 1 to n using gedit or Leafpad.
 ![Screenshot (195)](https://github.com/Nithishv26-git/vsdsquadronmini/assets/173581404/36ba135b-b4a4-47ad-86ed-66e3c598559c)
 Output for the above code:
+![Screenshot (196)](https://github.com/Nithishv26-git/vsdsquadronmini/assets/173581404/b809ac50-06e3-4bb3-b054-e7d9f7839ac6)
+Compiling the same code for RISC-V:
+![Screenshot (197)](https://github.com/Nithishv26-git/vsdsquadronmini/assets/173581404/0e7d51be-0a95-4816-816f-1c50518e327e)
+
