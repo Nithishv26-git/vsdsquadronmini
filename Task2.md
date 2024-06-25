@@ -61,5 +61,18 @@ void processRequest(int requestedFloor) {
 
     // Additional logic can be added here for handling door operations, etc.
 }
-# compiling the above code using gcc compiler
+```
+compiling the above code using gcc compiler
+![Screenshot (17)](https://github.com/Nithishv26-git/vsdsquadronmini/assets/173581404/55d36bae-f5f5-4194-8964-47feae513126)
+
+![Screenshot (18)](https://github.com/Nithishv26-git/vsdsquadronmini/assets/173581404/42b6482c-69cc-47ef-ac1d-fb4dfcd65980)
+
+![Screenshot (19)](https://github.com/Nithishv26-git/vsdsquadronmini/assets/173581404/a657abcf-18d8-48d5-b29c-48e82fdaed9d)
+
+#Functions of this elevator:
+This program provides a basic simulation of a smart elevator controller where elevators respond to user requests to move between floors efficiently. In a real-world scenario, additional features such as prioritization of requests, handling multiple requests simultaneously, and fault tolerance would need to be implemented for robust operation.
+
+#OUTPUT of the C code is shown below:
+
+
 
