@@ -74,5 +74,5 @@ This program provides a basic simulation of a smart elevator controller where el
 
 #OUTPUT of the C code is shown below:
 
-
+![Screenshot (15)](https://github.com/Nithishv26-git/vsdsquadronmini/assets/173581404/781d0033-bd30-4e5b-a176-b8bc02d9cdd8)
 
