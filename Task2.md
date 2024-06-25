@@ -85,5 +85,12 @@ Request received for 7th floor ,so the elevator is moving from floor 8 to floor 
 ```
 riscv64-unknown-elf-gcc -O1 -mabi=lp64 -o filename.o filename.c
 ```
+#Finding the assembly code for the RISC-V simulation
+Therefore Subtracting the last memory address of the main function from the fisrt memory address of the function next to the main function
+![Screenshot (20)](https://github.com/Nithishv26-git/vsdsquadronmini/assets/173581404/ca63ca37-15bd-4282-af58-1fab7236450d)
+#Finding the number of Instruction sets:
+
+![Screenshot (22)](https://github.com/Nithishv26-git/vsdsquadronmini/assets/173581404/29966218-f150-4b04-9f97-d30de10847fe)
+#End of task 2
 
 
