@@ -60,4 +60,6 @@ void processRequest(int requestedFloor) {
     }
 
     // Additional logic can be added here for handling door operations, etc.
-}```
+}
+# compiling the above code using gcc compiler
+
