@@ -75,4 +75,15 @@ This program provides a basic simulation of a smart elevator controller where el
 #OUTPUT of the C code is shown below:
 
 ![Screenshot (15)](https://github.com/Nithishv26-git/vsdsquadronmini/assets/173581404/781d0033-bd30-4e5b-a176-b8bc02d9cdd8)
+# OUTPUT EXPLAINATION:
+1.At initial condition the elevator is at floor '0':
+  Request received for floor '8' ,hence the elevator is moving from floor 0 to 8;
+2.Now the elevator is at 8th floor :
+Request received for 7th floor ,so the elevator is moving from floor 8 to floor 7;
+# Compiling the same program in the RISC-V Simulator:
+*prompt for the risc compiler
+```
+riscv64-unknown-elf-gcc -O1 -mabi=lp64 -o filename.o filename.c
+```
+
 
