@@ -14,4 +14,4 @@ Now executing the spike simulation with the help of spike simulation commands
 ```
 spike pk elevatorctrl.o
 ```
-
+k
