@@ -14,4 +14,6 @@ Now executing the spike simulation with the help of spike simulation commands
 ```
 spike pk elevatorctrl.o
 ```
-k
+
+![Screenshot (24)](https://github.com/Nithishv26-git/vsdsquadronmini/assets/173581404/d0b98188-71e1-4f69-bcee-2b79e1ef1fb0)
+
