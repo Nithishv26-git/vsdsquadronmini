@@ -13,5 +13,10 @@
 -  Display panels, buttons.
 -  Breadboard
 -  jumper Wires
-
+## Working
+- #### Floor Selection:
+-  Passengers typically interact with the elevator through a user interface located either inside or outside the elevator car.
+- This interface can be a touchscreen, keypad, or button panel.
+- ##### Destination Input:
+- Passengers select their desired floor using the interface. Some smart elevators may also allow users to input additional parameters, such as whether they are in a rush or have specific accessibility needs.
 
