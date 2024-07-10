@@ -119,3 +119,35 @@ void delay(uint32_t milliseconds) {
 
 ![Screenshot (41)](https://github.com/Nithishv26-git/vsdsquadronmini/assets/173581404/6ab01378-37a2-4fe5-9c57-91169de6fb6c)
 
+## Stepper Motor
+- Coil1 is connected to the motor driver's 1Y terminal.
+- Coil2 is connected to the motor driver's 2Y terminal.
+- Coil3 is connected to the motor driver's 3Y terminal.
+- Coil4 is connected to the motor driver's 4Y terminal.
+## Motor Driver
+- VDD (power supply) is connected to the MCU's VIN.
+- STEP is connected to a pin (not specified which pin exactly, but it would be a GPIO pin on the MCU).
+- DIRECTION is connected to another GPIO pin on the MCU.
+- GND is connected to the MCU's GND.
+## Proximity Sensor
+- VIN is connected to the MCU's VIN.
+- OUT is connected to the MCU's PC0 (a GPIO pin).
+- GND is connected to the MCU's GND.
+## MCU (Microcontroller Unit)
+- VIN is connected to the power supply (typically 5V or 3.3V depending on the MCU specifications).
+- PDO, PD1 are not connected in the given diagram.
+- GND is connected to the common ground.
+- PC0 is connected to the proximity sensor's OUT.
+- PC1, PC2, PC3 are GPIO pins that could be used for additional connections if needed.
+## LCD Display
+- VCC is connected to the MCU's VIN (power supply).
+- GND is connected to the MCU's GND.
+- E (Enable) is connected to a GPIO pin on the MCU.
+- RS (Register Select) is connected to another GPIO pin on the MCU.
+- D3, D6, D7 are data pins connected to respective GPIO pins on the MCU for sending data to the display.
+### Working
+The stepper motor is controlled via a motor driver, which receives direction and step signals from the MCU.
+The proximity sensor detects objects and sends an output signal to the MCU.
+The LCD display shows data and receives control signals from the MCU.
+All components share a common ground and power supply (VIN and GND).
+These connections allow the MCU to control the stepper motor based on inputs from the proximity sensor and display information on the LCD.
