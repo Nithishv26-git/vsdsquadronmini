@@ -115,4 +115,7 @@ void delay(uint32_t milliseconds) {
     }
 }
 ```
+# CIRCUIT CONNECTIONS:
+
+![Screenshot (41)](https://github.com/Nithishv26-git/vsdsquadronmini/assets/173581404/6ab01378-37a2-4fe5-9c57-91169de6fb6c)
 
