@@ -7,3 +7,7 @@ The program is about the development pf RISC-V architecture using the VSD squadr
 >Includes a built-in factory-trimmed 24MHz RC oscillator and a 128kHz RC oscillator, plus an external 24MHz oscillator.
 >3 groups of GPIO ports, totalling 15 I/O ports.
 >2KB SRAM for volatile data storage, 16KB CodeFlash for program memory, and additional 1920B for bootloader functionalities.
+<details>
+<summary>TASK 1</summary>
+<br> 
+  
