@@ -1,4 +1,4 @@
-#TASK 4
+# TASK 4
 # RISC-V Instruction Types and extraction of 32-bit instruction in the instruction type format.
 RISC-V instructions can be broadly categorized into six types based on their format and structure:
 
