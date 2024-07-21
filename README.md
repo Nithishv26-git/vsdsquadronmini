@@ -703,3 +703,14 @@ These connections allow the MCU to control the stepper motor based on inputs fro
  <br>
  # Demonstration of the Project
  (https://drive.google.com/file/d/1EjFtfvYl9bJ4m1Ex9OB9L6hJdMUio0fR/view?usp=drivesdk)
+  </details>
+  
+ <details>
+*<summary><h4>Acknowledgment</h4></summary>*
+
+>
+>I would like to express my special thanking to my mentor *Kunal Ghosh*, and sincere gratitude to *Vlsi System Design* for providing me with the opportunity to intern remotely with their team. This internship has been an invaluable experience, allowing me to delve deep into embedded systems, RISC-V architecture, and VLSI design under the guidance of dedicated mentors.
+>
+>I am thankful for the support and knowledge imparted to me during this journey. It has significantly enhanced my technical skills and prepared me for future challenges in the field of digital design. I look forward to applying the lessons learned here in my continued pursuit of excellence in engineering.
+>
+</details>
