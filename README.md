@@ -697,3 +697,9 @@ All components share a common ground and power supply (VIN and GND).
 These connections allow the MCU to control the stepper motor based on inputs from the proximity sensor and display information on the LCD.
 
 </details>
+
+<details>
+ <summary>Application Video</summary>
+ <br>
+ # Demonstration of the Project
+ (https://drive.google.com/file/d/1EjFtfvYl9bJ4m1Ex9OB9L6hJdMUio0fR/view?usp=drivesdk)
