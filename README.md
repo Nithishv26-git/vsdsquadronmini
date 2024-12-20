@@ -1,5 +1,5 @@
 # VSDsquadron_intern
-The program is about the development pf RISC-V architecture using the VSD squadron mini board.
+The program is about the development of RISC-V architecture using the VSD squadron mini board.
 # VSD squadron mini board
 ![1719301997596](https://github.com/Nithishv26-git/vsdsquadronmini/assets/173581404/e3845873-2e6f-47ff-82f7-6331eb2ef3b6)
 # Features 
